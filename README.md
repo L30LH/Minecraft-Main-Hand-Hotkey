@@ -5,7 +5,6 @@
 | Fabric                                                                                                        |
 |---------------------------------------------------------------------------------------------------------------|
 | [1.21.11](https://github.com/L30LH/Minecraft-Main-Hand-Hotkey/releases/download/Minecraft/mainhandhotkey.jar) | 
-|                                                                                                               |
 
 ## License
 
