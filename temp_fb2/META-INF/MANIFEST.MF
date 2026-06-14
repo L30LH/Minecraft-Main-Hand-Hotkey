@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Fabric-Jar-Type: sources
+Fabric-Loom-Client-Only-Entries: LICENSE-fabric-key-binding-api-v1;asset
+ s/fabric-key-binding-api-v1/icon.png;fabric-key-binding-api-v1.mixins.j
+ son;fabric.mod.json;net/fabricmc/fabric/api/client/keybinding/v1/KeyBin
+ dingHelper.java;net/fabricmc/fabric/impl/client/keybinding/KeyBindingRe
+ gistryImpl.java;net/fabricmc/fabric/impl/client/keybinding/package-info
+ .java;net/fabricmc/fabric/mixin/client/keybinding/GameOptionsMixin.java
+ ;net/fabricmc/fabric/mixin/client/keybinding/KeyBindingAccessor.java;ne
+ t/fabricmc/fabric/mixin/client/keybinding/package-info.java
+Fabric-Loom-Split-Environment: true
+Fabric-Gradle-Version: 8.7
+Fabric-Loom-Version: 1.6.11
+Fabric-Mixin-Compile-Extensions-Version: 0.6.0
+Fabric-Minecraft-Version: 1.21.1-rc1
+Fabric-Tiny-Remapper-Version: 0.10.1
+Fabric-Loader-Version: 0.15.11
+Fabric-Mixin-Version: 0.13.3+mixin.0.8.5
+Fabric-Mixin-Group: net.fabricmc
+Fabric-Mapping-Namespace: intermediary
+
